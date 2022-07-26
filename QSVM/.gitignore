@@ -1,0 +1,9 @@
+_data/
+__pycache__/
+results/
+wandb/
+sweeps_files
+*.hdf5*
+*.ckpt*
+checkpoint
+segmentation/leave-one-day-out/generate_example_file_of_segmented_day/files/
